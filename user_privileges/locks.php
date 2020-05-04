@@ -1,0 +1,4 @@
+<?php
+
+$locksRaw = [];
+$locks = [];
